@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nine Literature Radar"
+  short_description: "Read papers and propose testable research ideas"
+  default_prompt: "Use $nine-literature-radar to run the scheduled Nine literature review and update the candidate archive."

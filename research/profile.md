@@ -1,15 +1,41 @@
 # Research profile
 
-Status: draft; complete and revise with the researcher.
+Status: candidate profile; human review required.
+
+Automatic runs may append proposals, but may not promote them into confirmed
+sections without the researcher's review.
 
 ## Core interests
 
-- Kahler geometry
+- Kaehler geometry
 - Complex Monge-Ampere equations
+
+## Confirmed active focus
+
+To be reviewed and accepted by the researcher.
+
+## Candidate focus from A's first calibration run
+
+- `[SOL-INFERENCE]` Homogeneous complex Monge-Ampere equations.
+- `[SOL-INFERENCE]` Pluripotential theory.
+- `[SOL-INFERENCE]` Diameter bounds as a possible adjacent theme.
+- `[SOL-INFERENCE]` Hyperkähler geometry as a possible adjacent theme.
+
+The last two items were present in the previous weekly search configuration; A
+must not treat them as current priorities until the researcher confirms them.
+
+## Candidate methods and bridges
+
+- `[SOL-INFERENCE]` Explore links among capacity estimates, stability, weak
+  solutions, and degenerating Kaehler metrics.
+- `[CONJECTURE]` Scout harmonic analysis, nonlinear potential theory, probability,
+  optimal transport, and metric-measure geometry only when a concrete structural
+  bridge is stated.
 
 ## Active themes
 
-To be supplied.
+See the candidate focus above. Human-confirmed themes should be moved here after
+review.
 
 ## Mathematical conventions
 
@@ -19,12 +45,6 @@ notation here as they become stable.
 ## Familiar methods
 
 To be supplied.
-
-## Methods to scout outside the core area
-
-To be supplied. Candidate areas may include harmonic analysis, nonlinear
-potential theory, probability, optimal transport, and metric-measure geometry,
-but additions require a concrete structural bridge rather than a loose analogy.
 
 ## Canonical references
 
