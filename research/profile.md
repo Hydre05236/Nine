@@ -19,7 +19,7 @@ To be reviewed and accepted by the researcher.
 - `[SOL-INFERENCE]` Homogeneous complex Monge-Ampere equations.
 - `[SOL-INFERENCE]` Pluripotential theory.
 - `[SOL-INFERENCE]` Diameter bounds as a possible adjacent theme.
-- `[SOL-INFERENCE]` Hyperkähler geometry as a possible adjacent theme.
+- `[SOL-INFERENCE]` Hyperkaehler geometry as a possible adjacent theme.
 
 The last two items were present in the previous weekly search configuration; A
 must not treat them as current priorities until the researcher confirms them.
