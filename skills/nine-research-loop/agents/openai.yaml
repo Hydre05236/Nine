@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nine Research Loop"
+  short_description: "Human-supervised mathematical research with Rethlas"
+  default_prompt: "Use $nine-research-loop to start or continue a human-supervised mathematical research problem."
